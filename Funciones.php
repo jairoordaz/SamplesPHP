@@ -31,5 +31,10 @@ class Funciones(){
         return $resultado;
     }
 
+    function sample(){
+    	$texto="GitHub";
+    	return $texto;
+    }
+
 }
 ?>
