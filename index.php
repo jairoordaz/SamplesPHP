@@ -1,11 +1,11 @@
 <?php
 include('Funciones.php');
 
-$funciones = new Funciones();
+// $funciones = new Funciones();
 
-$mensaje = $funciones->setMensaje("Hola Mundo Github");
+// $mensaje = $funciones->setMensaje("Hola Mundo Github");
 
-echo $mensaje;
+// echo $mensaje;
 
 
 ?>
