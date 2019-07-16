@@ -35,7 +35,6 @@ class Funciones(){
     	$texto="GitHub";
     	return $texto;
     }
-    
 
 }
 ?>
