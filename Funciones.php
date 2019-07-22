@@ -36,5 +36,11 @@ class Funciones(){
     	return $texto;
     }
 
+    function newFuncion($mensaje){
+        $response = $mensaje;
+
+        return echo json_encode($response);
+    }
+
 }
 ?>
